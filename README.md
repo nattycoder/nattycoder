@@ -62,7 +62,7 @@ I'm always excited to discuss home server setups, cybersecurity solutions, and n
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alaayedi090)
 
 ## 📊 GitHub Stats
-[![](https://visitcount.itsvg.in/api?id=nattycoder&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nattyCoder&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 ---
 
 > "The only way to do great work is to love what you do." - Steve Jobs
