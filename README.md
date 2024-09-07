@@ -1,52 +1,74 @@
 # Alaa Eddine Ayedi
 
-## 🛡️ Cybersecurity Enthusiast | 🏠 Home Lab Architect | 🚀 Self-Hosting Aficionado
+## 🏠 Home Server Enthusiast | 🛡️ Cybersecurity Aficionado | 🌐 Self-Hosting Wizard
 
-Passionate about building robust, secure home networks and self-hosted solutions. Transforming my living space into a cutting-edge tech playground, one server at a time.
+Hey there! I'm passionate about building and managing home servers, implementing cybersecurity solutions, and optimizing network infrastructure. My playground? A home lab where I experiment with various technologies to create efficient, secure, and resource-friendly solutions.
 
-### 🔐 Security Arsenal & Skills
+### 🛠️ What I'm Working On
 
-![SIEM](https://img.shields.io/badge/SIEM-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAF8SURBVHjaYvz//z8DJYCJgULAXL5oCsL0x+INc0Hch4wMDG8YGRj+MzEwMDIwMPzHph4rxjPhM4WBgeEP1EbuQQ0Mh0BWYiVs6qlP2g+5EwQ+/P/DwC2kz3Dp7Q6GsR7LGD4xMDCw4NTIwMDwjYGBgYMJxLn/bDPDdx4hhlmuixm2nJzGIKUjwPCd8R8DMw7XcgEFTx6eP+D/50+fGP7+/8sQrRHPsOT8XIYIhUwGdjYOhv///zNg0wjV84eBgeEzEwMDw/svnxgEeUUYuNi5GBbErmGQF5NniJXJZuDi4GRgZmZmAGvEov4jAwPDXyYGBoYfv74zbDy2gcFCzophftRKBlVJdQZ2DhaGv3//MTB+2zj3EVbvMbz5xMDAwM7OzsCwKx98CkQ+MPxn+INNIzxwvq2fwfCPkY2BgYEBoXjTRFC8gTVu0J/MwMXDAI9HJM3fGBgYWHApwqZu/46KxQwMDD/wKaAYAAQYAGa3WT1mUA1GAAAAAElFTkSuQmCC&logoColor=white)
-![SOAR](https://img.shields.io/badge/SOAR-4A154B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAGXSURBVHjaYvz//z8DJYCJgULAAvMEbZ7DMP3xBYZ5DAyXGRkY/jMxMDAyMDD8x6YeK8ZnCgMDwx+oldy9GhgOgWhGRqyETT0jNovwAh4GBob3LD9+fGM4ur6O4fi2FoZvX1+A5RXVvRgk5AwZ3r9+xPCuR5Th4+G9DLdm6jP8fCnI8OfJO4ZvzxkZvv18h/CFbFblDMKKpgziyk4ML2+tYvh8bwfDn++fGN7dWsXw5+tHBjffGuQwFn//Bm/5hF+vGP59fcfw+fEhhq/PDzP8+/mR4de7Gwyfnh5l+P3pGQMT0zMGBk4WBs5HQhBT/n//CD7E4ECUVLNlYOPkZ/j/7y/Dr4+PGP58fMjw5e5uhs+3tzJ8fbCL4c/X9wzsHGwgt8JD5fHhfQwfHuxFhBoHFwOvoC7Dr3d3GH5/fMrw7fkJhh8vzzF8f32R4c/nFwzcvN8ZODnY4BpBQFLZkoGVnRccUSAXsLCyMXDw6zN8e3mG4dvLsww/Xl9k+P3pGQMHOwvcEIJxCgKMDAx/iFeKC1AMAAIMEQNB7aUUAAAAAElFTkSuQmCC&logoColor=white)
-![EDR](https://img.shields.io/badge/EDR-009639?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAF1SURBVHjaYvz//z8DJYCJgUIANlVCY9ZUEOfD6nZHmCZWfCYwMDD8gVrJPaiB4RCIZmTESticX7OYARZ4WIGECD/DX04Ohv+/fjH8ef+B4R8zM8P/P38Y/v/+zcDIwsLw//dvBkZmZgZGNjaGf9+/M/z/8YNBXEeHgYmbm+HX69cMrAICoC3r58L0w20EARYGBoYfTAwMDIxiIgz/GBkZGLi4GZi4uBn+/fnD8Of9O4a/nz4x/Pv5g4GJk4vhz+dPYI0c3Bz4XcXz7z/D7y/fGP7+/cvw+9s3hv+/fjMwsLEx/P3+g+Hnh48MXPx8DH///WNgYWTCb6K4qiqDkLwcWOfv798Zvr+8zPD9xSmGPx/vMfz7+YqBiZmNgVtCjuHPh5cMDAwMBE3kZBZm+PVpE8OXq5sZvt/by/Dz+TkGVm5BBn5NN4a//34y/P7yhYGPj5VABDEwMIo6vWSQ9rnIIGzA8PvXD4afH98ysHNyMDAyMhHWiAswMDD8AQgwALo5JNajIJadAAAAAElFTkSuQmCC&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- Building and maintaining a home server for various self-hosted services
+- Implementing network traffic control and monitoring solutions
+- Setting up advanced security systems (SIEM, SOAR, EDR)
+- Creating dashboards for network metrics and security event visualization
+- Deploying and managing core network services (DNS, VPN, Proxies, Firewalls)
+
+### 💻 Technologies & Tools I Use
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-00979D?style=for-the-badge&logo=cisco&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Security Onion](https://img.shields.io/badge/Security%20Onion-00B1E7?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAEWSURBVHjarJK9SgNBFIW/WdciiD9gk0IoRFKk2TStjY2VVbqAYOULiI+RN7C1S2FlrdiKFgGLVOIPgojiwiyibOZYZJZdN4mVB4b5ue53h3MPSik6EdDGbyhlGHw5wlhz7eJc4+u5OvqBjMkoFDcxNo5O9aVN5JOs1TfIZAFEGCt96X7dC0QcpZRR31x/1BYr5QQkrczOhABG+axHyRYBR2bnw+TLOqsHMC+g5OYhsN34SeJxA7Z6Oi7XqqxUX4NkIjJBNE/4MgQsxvXKyw2XWz5zmTzLpTKzc4tw/SjiTYJx4FKEZlT3koVj388EeEcM9g7h5MnPaxBqxDDwEJOuS0SLgCvG9t/0QUtkGI06vLqx33TqLwD+cyX/CzAAtKJnvfCWEQgAAAAASUVORK5CYII=&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
 
-- 🔍 **SIEM Implementation**: Centralizing log management and threat detection
-- 🤖 **SOAR Integration**: Automating incident response workflows
-- 🛡️ **EDR Deployment**: Enhancing endpoint visibility and threat mitigation
-- 🐳 **Containerization**: Leveraging Docker for efficient, scalable deployments
-- 🌐 **Network Architecture**: Designing and implementing robust home networks
-- 🔐 **Security Monitoring**: Setting up IDS/IPS systems and custom alert pipelines
+### 🌟 Key Projects & Skills
 
-### 🏗️ Home Lab Highlights
+1. **Home Server Setup & Management**:
+   - Configuring and optimizing physical and virtual machines
+   - Resource-efficient self-hosted solutions
 
-- Self-hosted services optimized for resource efficiency
-- Custom dashboards for real-time network and security metrics
-- Automated deployment pipelines for rapid experimentation
-- Segmented network with VLANs and strict access controls
-- Continuous security testing and vulnerability assessments
+2. **Network Infrastructure & Security**:
+   - LAN setup, switching, routing, and VLANs
+   - Implementing firewalls and intrusion detection systems
 
-### 🌱 Current Focus
+3. **Cybersecurity Solutions**:
+   - SIEM implementation using Security Onion and ELK Stack
+   - SOAR integration with Tines for automated incident response
+   - EDR deployment using Elastic agent and LimaCharlie
 
-- Enhancing threat hunting capabilities in my home environment
-- Exploring machine learning applications in network anomaly detection
-- Implementing zero-trust architecture principles
-- Expanding my skills in cloud security and DevSecOps practices
+4. **Containerization & Automation**:
+   - Docker container management and orchestration
+   - CI/CD pipelines for efficient service deployment
+
+5. **Monitoring & Analytics**:
+   - Custom Grafana dashboards for network and security metrics
+   - Log aggregation and analysis with Splunk and ELK Stack
+
+### 🌱 What I'm Learning Next
+
+- Advanced threat hunting techniques
+- Machine learning applications in network security
+- Expanding cloud security knowledge
+- Exploring zero-trust architecture implementation
 
 ### 🤝 Let's Connect!
 
-Passionate about cybersecurity, home labs, or self-hosting? Let's chat!
+I'm always excited to discuss home server setups, cybersecurity solutions, and network optimizations. Feel free to reach out if you want to share experiences or collaborate on a project!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alaaeddineayedi/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alaayedi090)
 
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=nattyCoder&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nattyCoder&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nattyCoder&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 ---
 
-> "Security is a process, not a product." - Bruce Schneier
-
-![](https://github-readme-stats.vercel.app/api?username=nattyCoder&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+> "The only way to do great work is to love what you do." - Steve Jobs
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nattyCoder&icon=5&color=0)](https://visitcount.itsvg.in)
