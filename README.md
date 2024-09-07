@@ -70,4 +70,4 @@ I'm always excited to discuss home server setups, cybersecurity solutions, and n
 > "The only way to do great work is to love what you do." - Steve Jobs
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nattyCoder&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nattyCoder&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in/analytics/nattyCoder)
