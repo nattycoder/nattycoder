@@ -62,10 +62,7 @@ I'm always excited to discuss home server setups, cybersecurity solutions, and n
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alaayedi090)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=nattyCoder&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=nattyCoder&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nattyCoder&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+[![](https://visitcount.itsvg.in/api?id=nattycoder&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 ---
 
 > "The only way to do great work is to love what you do." - Steve Jobs
