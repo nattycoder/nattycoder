@@ -4,6 +4,8 @@
 
 Hey there! I'm passionate about building and managing home servers, implementing cybersecurity solutions, and optimizing network infrastructure. My playground? A home lab where I experiment with various technologies to create efficient, secure, and resource-friendly solutions.
 
+[![Resume](https://github.com/nattycoder/Resume)
+
 ### 🛠️ What I'm Working On
 
 - Building and maintaining a home server for various self-hosted services
