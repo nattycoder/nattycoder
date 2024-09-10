@@ -54,15 +54,12 @@ def mission_status():
 print(mission_status())
 ```
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nattyCoder&theme=matrix&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ## 📡 How to Reach Me
 
 <p align="center">
   <a href="https://linkedin.com/in/alaaeddineayedi/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:alaa.ayedi.personal@google.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://medium.com/@alaayedi090"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </p>
 
