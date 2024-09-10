@@ -1,9 +1,15 @@
-# 👨‍💻 Alaa Eddine Ayedi | Digital Fortress Architect
+# Alaa Eddine Ayedi | Digital Fortress Architect
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/nattyCoder/count.svg)
+
+</div>
 
 ```ascii
- _____________________
-< Welcome to my realm >
- ---------------------
+ _______________________________________
+< Seeking Network Security Internship! >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
@@ -11,23 +17,17 @@
                 ||     ||
 ```
 
-## 🏰 Fortifying the Digital Kingdom
+## 🛡️ Skill Arsenal
 
-Greetings, fellow tech enthusiasts! Step into my digital realm where bits are fortified, packets are scrutinized, and servers hum with the sweet sound of efficiency. I'm on a quest to build the ultimate home lab, defend against cyber dragons, and optimize every last byte.
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Home%20Server-Pro-success?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Home Server"></td>
+    <td><img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-red?style=for-the-badge&logo=hackaday&logoColor=white" alt="Cybersecurity"></td>
+    <td><img src="https://img.shields.io/badge/Self%20Hosting-Wizard-blueviolet?style=for-the-badge&logo=openvpn&logoColor=white" alt="Self Hosting"></td>
+  </tr>
+</table>
 
-### 🛡️ Arsenal of Digital Wizardry
-
-```mermaid
-graph TD
-    A[Home Server Sorcery] --> B[Cybersecurity Alchemy]
-    A --> C[Self-Hosting Enchantments]
-    B --> D[SIEM Scrying]
-    B --> E[SOAR Spellcasting]
-    C --> F[Docker Summoning]
-    C --> G[Proxmox Illusions]
-```
-
-### 🔮 Magical Artifacts
+## 🔧 Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -38,56 +38,48 @@ graph TD
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
 
-## 🏆 Legendary Quests
+## 🏆 Key Projects
 
-1. **🏠 Home Server Citadel**
-   - Crafting a resource-efficient fortress of self-hosted services
-   - Summoning and taming virtual machines with Proxmox sorcery
+```mermaid
+mindmap
+  root((Digital Fortress))
+    Home Server Citadel
+      Resource-efficient
+      Self-hosted services
+      Proxmox virtualization
+    Cybersecurity Stronghold
+      Firewalls & IDS
+      SIEM (Security Onion & ELK)
+      SOAR (Tines)
+    Container Armada
+      Docker orchestration
+      CI/CD pipelines
+    Metrics Divination
+      Grafana dashboards
+      Log analysis (Splunk & ELK)
+```
 
-2. **🛡️ Cybersecurity Stronghold**
-   - Erecting impenetrable firewalls and vigilant intrusion detection systems
-   - Scrying the network with SIEM crystal balls (Security Onion & ELK Stack)
-   - Automating defenses with SOAR battle strategies (Tines)
+## 🧪 Current Experiments
 
-3. **🐳 Container Armada**
-   - Orchestrating a fleet of Docker vessels for swift deployment
-   - Charting CI/CD routes for smooth sailing of services
+- 🕵️ Advanced threat hunting
+- 🤖 AI in cybersecurity
+- ☁️ Cloud-native security
+- 🔐 Zero-trust architecture
 
-4. **📊 Metrics Divination**
-   - Conjuring Grafana dashboards to foresee network anomalies
-   - Diving into the depths of logs with Splunk and ELK Stack
+## 🌟 Availability Beacon
 
-## 🧪 Experimental Brews
+```python
+def internship_status():
+    available_from = datetime(2025, 2, 1)
+    location = "Anywhere in the world"
+    passion = "Network Security"
+    
+    return f"Ready to secure networks from {available_from.strftime('%B %Y')} | Open to {location} | Passionate about {passion}"
 
-- 🕵️ Advanced threat hunting potions
-- 🤖 AI-powered security familiars
-- ☁️ Cloud-native protection spells
-- 🔐 Zero-trust architecture runes
+print(internship_status())
+```
 
-## 📜 Scrolls of Wisdom
-
-> "In the realm of bits and bytes, vigilance is our shield, and knowledge our sword." - Digital Sage Alaa
-
-## 🌌 Interdimensional Portals
+## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alaaeddineayedi/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alaayedi090)
-
----
-
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/nattyCoder/count.svg)
-
-</div>
-
-```ascii
- ___________
-< EOF >
- -----------
-        \   ^__^
-         \  (@@)\_______
-            (__)\       )\/\
-             U  ||----w |
-                ||     ||
-```
