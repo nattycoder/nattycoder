@@ -1,7 +1,11 @@
 <h1 align="center">Alaa Eddine Ayedi | Home Lab Architect & Cybersecurity Enthusiast</h1>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/🚨%20SEEKING%20NETWORK%20SECURITY%20INTERNSHIP-red?style=for-the-badge" alt="Seeking Network Security Internship" />
+  <a href="#" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🚨%20SEEKING%20NETWORK%20SECURITY%20INTERNSHIP-red?style=for-the-badge" alt="Seeking Network Security Internship" width="100%" />
+  </a>
 </div>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Home+Lab+Maestro;Network+Security+Explorer;Self-Hosting+Aficionado;Continuous+Learner" alt="Typing SVG" />
 </p>
