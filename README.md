@@ -64,9 +64,5 @@ print(mission_status())
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattyCoder&layout=compact&theme=matrix&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=nattyCoder&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
