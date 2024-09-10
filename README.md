@@ -4,63 +4,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Home+Lab+Maestro;Network+Security+Explorer;Self-Hosting+Aficionado;Continuous+Learner" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nattyCoder&theme=matrix&hide_border=true" alt="GitHub Streak" />
-</p>
+## 🛠️ Skill Arsenal
 
-## Arsenal of Digital Exploration
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Network%20Security-red?style=for-the-badge&logo=shield&logoColor=white" alt="Network Security"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Home%20Lab-blue?style=for-the-badge&logo=homeadvisor&logoColor=white" alt="Home Lab"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Virtualization-purple?style=for-the-badge&logo=vmware&logoColor=white" alt="Virtualization"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Containerization-brightgreen?style=for-the-badge&logo=docker&logoColor=white" alt="Containerization"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Infrastructure%20Automation-orange?style=for-the-badge&logo=ansible&logoColor=white" alt="Infrastructure Automation"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Monitoring%20%26%20Analytics-yellow?style=for-the-badge&logo=grafana&logoColor=white" alt="Monitoring & Analytics"/></td>
+  </tr>
+</table>
 
-```mermaid
-mindmap
-  root((Home Lab Ecosystem))
-    Networking
-      pfSense
-      Suricata
-      Snort
-    Virtualization
-      Proxmox
-      VirtualBox
-      Windows Server
-      Windows Workstation
-    Containerization
-      LXC
-      Docker
-    Security Tools
-      FLARE VM
-      REMnux
-      Metasploitable 2
-      Tsurugi Linux
-    Monitoring & Analysis
-      Splunk
-      ELK Stack
-      Grafana
-      InfluxDB
-      Prometheus
-      Telegraf
-      ntopng
-    Automation
-      Ansible
-      PowerShell
-      Bash Scripting
-    SOAR & EDR
-      Tines
-      LimaCharlie
-    Infrastructure
-      Active Directory
-```
-
-## Core Interests & Skills
-
-- **Home Lab Architecture**: Designing and implementing comprehensive home server setups
-- **Service Deployment**: Experimenting with various self-hosted services and applications
-- **Virtualization & Containerization**: Mastering VM and container technologies for efficient resource utilization
-- **Network Security**: Implementing and testing various security tools and configurations
-- **Infrastructure Automation**: Crafting scripts and utilizing tools for streamlined management
-- **Continuous Learning**: Staying updated with the latest in cybersecurity through blogs and documentation
-- **Open Source Contribution**: Actively participating in and contributing to open-source projects
-- **Troubleshooting & Optimization**: Solving complex issues and fine-tuning system performance
-
-## Tech Stack Showcase
+## 💻 Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
@@ -73,14 +32,7 @@ mindmap
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white)
 
-## Current Operations
-
-- Implementing zero-trust architecture in a multi-VLAN home network environment
-- Exploring machine learning integration with SIEM for advanced threat detection
-- Developing custom dashboards for comprehensive home lab metrics visualization
-- Automating routine tasks and deployments using Ansible and PowerShell
-
-## Mission Availability
+## 🌟 Mission Availability
 
 ```python
 def mission_status():
@@ -94,10 +46,17 @@ def mission_status():
 print(mission_status())
 ```
 
-## Secure Communication Channels
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nattyCoder&theme=matrix&hide_border=true" alt="GitHub Streak" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alaaeddineayedi/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@alaayedi090)
+## 📡 How to Reach Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/alaaeddineayedi/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://medium.com/@alaayedi090"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"/></a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattyCoder&layout=compact&theme=matrix&hide_border=true" alt="Top Languages" />
