@@ -1,20 +1,33 @@
-# Alaa Eddine Ayedi
+# 👨‍💻 Alaa Eddine Ayedi | Digital Fortress Architect
 
-## 🏠 Home Server Enthusiast | 🛡️ Cybersecurity Aficionado | 🌐 Self-Hosting Wizard
+```ascii
+ _____________________
+< Welcome to my realm >
+ ---------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 
-Hey there! I'm passionate about building and managing home servers, implementing cybersecurity solutions, and optimizing network infrastructure. My playground? A home lab where I experiment with various technologies to create efficient, secure, and resource-friendly solutions.
+## 🏰 Fortifying the Digital Kingdom
 
-### Closer look over here: [Resume](https://github.com/nattycoder/Resume)
+Greetings, fellow tech enthusiasts! Step into my digital realm where bits are fortified, packets are scrutinized, and servers hum with the sweet sound of efficiency. I'm on a quest to build the ultimate home lab, defend against cyber dragons, and optimize every last byte.
 
-### 🛠️ What I'm Working On
+### 🛡️ Arsenal of Digital Wizardry
 
-- Building and maintaining a home server for various self-hosted services
-- Implementing network traffic control and monitoring solutions
-- Setting up advanced security systems (SIEM, SOAR, EDR)
-- Creating dashboards for network metrics and security event visualization
-- Deploying and managing core network services (DNS, VPN, Proxies, Firewalls)
+```mermaid
+graph TD
+    A[Home Server Sorcery] --> B[Cybersecurity Alchemy]
+    A --> C[Self-Hosting Enchantments]
+    B --> D[SIEM Scrying]
+    B --> E[SOAR Spellcasting]
+    C --> F[Docker Summoning]
+    C --> G[Proxmox Illusions]
+```
 
-### 💻 Technologies & Tools I Use
+### 🔮 Magical Artifacts
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -22,53 +35,59 @@ Hey there! I'm passionate about building and managing home servers, implementing
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Security Onion](https://img.shields.io/badge/Security%20Onion-00B1E7?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAEWSURBVHjarJK9SgNBFIW/WdciiD9gk0IoRFKk2TStjY2VVbqAYOULiI+RN7C1S2FlrdiKFgGLVOIPgojiwiyibOZYZJZdN4mVB4b5ue53h3MPSik6EdDGbyhlGHw5wlhz7eJc4+u5OvqBjMkoFDcxNo5O9aVN5JOs1TfIZAFEGCt96X7dC0QcpZRR31x/1BYr5QQkrczOhABG+axHyRYBR2bnw+TLOqsHMC+g5OYhsN34SeJxA7Z6Oi7XqqxUX4NkIjJBNE/4MgQsxvXKyw2XWz5zmTzLpTKzc4tw/SjiTYJx4FKEZlT3koVj388EeEcM9g7h5MnPaxBqxDDwEJOuS0SLgCvG9t/0QUtkGI06vLqx33TqLwD+cyX/CzAAtKJnvfCWEQgAAAAASUVORK5CYII=&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
 
-### 🌟 Key Projects & Skills
+## 🏆 Legendary Quests
 
-1. **Home Server Setup & Management**:
-   - Configuring and optimizing physical and virtual machines
-   - Resource-efficient self-hosted solutions
+1. **🏠 Home Server Citadel**
+   - Crafting a resource-efficient fortress of self-hosted services
+   - Summoning and taming virtual machines with Proxmox sorcery
 
-2. **Network Infrastructure & Security**:
-   - LAN setup, switching, routing, and VLANs
-   - Implementing firewalls and intrusion detection systems
+2. **🛡️ Cybersecurity Stronghold**
+   - Erecting impenetrable firewalls and vigilant intrusion detection systems
+   - Scrying the network with SIEM crystal balls (Security Onion & ELK Stack)
+   - Automating defenses with SOAR battle strategies (Tines)
 
-3. **Cybersecurity Solutions**:
-   - SIEM implementation using Security Onion and ELK Stack
-   - SOAR integration with Tines for automated incident response
-   - EDR deployment using Elastic agent and LimaCharlie
+3. **🐳 Container Armada**
+   - Orchestrating a fleet of Docker vessels for swift deployment
+   - Charting CI/CD routes for smooth sailing of services
 
-4. **Containerization & Automation**:
-   - Docker container management and orchestration
-   - CI/CD pipelines for efficient service deployment
+4. **📊 Metrics Divination**
+   - Conjuring Grafana dashboards to foresee network anomalies
+   - Diving into the depths of logs with Splunk and ELK Stack
 
-5. **Monitoring & Analytics**:
-   - Custom Grafana dashboards for network and security metrics
-   - Log aggregation and analysis with Splunk and ELK Stack
+## 🧪 Experimental Brews
 
-### 🌱 What I'm Learning Next
+- 🕵️ Advanced threat hunting potions
+- 🤖 AI-powered security familiars
+- ☁️ Cloud-native protection spells
+- 🔐 Zero-trust architecture runes
 
-- Advanced threat hunting techniques
-- Machine learning applications in network security
-- Expanding cloud security knowledge
-- Exploring zero-trust architecture implementation
+## 📜 Scrolls of Wisdom
 
-### 🤝 Let's Connect!
+> "In the realm of bits and bytes, vigilance is our shield, and knowledge our sword." - Digital Sage Alaa
 
-I'm always excited to discuss home server setups, cybersecurity solutions, and network optimizations. Feel free to reach out if you want to share experiences or collaborate on a project!
+## 🌌 Interdimensional Portals
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alaaeddineayedi/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alaayedi090)
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=nattyCoder&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=nattyCoder&theme=dark&hide_border=false)
 ---
 
-> "The only way to do great work is to love what you do." - Steve Jobs
+<div align="center">
 
----
-[![](https://visitcount.itsvg.in/api?id=nattyCoder&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in/analytics/nattyCoder)
+![Visitor Count](https://profile-counter.glitch.me/nattyCoder/count.svg)
+
+</div>
+
+```ascii
+ ___________
+< EOF >
+ -----------
+        \   ^__^
+         \  (@@)\_______
+            (__)\       )\/\
+             U  ||----w |
+                ||     ||
+```
