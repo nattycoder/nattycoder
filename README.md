@@ -1,3 +1,6 @@
+<!-- Add your banner image here -->
+![Banner](https://your-banner-image-url-here.jpg)
+
 <h1 align="center">Alaa Eddine Ayedi | Home Lab Architect & Cybersecurity Enthusiast</h1>
 
 <div align="center">
@@ -10,7 +13,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Home+Lab+Maestro;Network+Security+Explorer;Self-Hosting+Aficionado;Continuous+Learner" alt="Typing SVG" />
 </p>
 
+## 👋 About Me
 
+Home Lab enthusiast and Cybersecurity explorer passionate about building secure, efficient network infrastructures. Constantly learning and innovating in the realms of network security and self-hosted solutions.
 
 ## 🛠️ Skill Arsenal
 
@@ -54,6 +59,12 @@ def mission_status():
 print(mission_status())
 ```
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+</div>
 
 ## 📡 How to Reach Me
 
@@ -64,5 +75,5 @@ print(mission_status())
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nattyCoder&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
