@@ -1,13 +1,12 @@
-# Alaa Eddine Ayedi
+# Greetings, Fellow Digital Explorers!
 
-### 🎓 Networks and Telecommunications MEng Student
 ![Alt text](Cybersecurity_Enthusiast.png)
 
 ### 👋 Hello, Cyber World!
 
-I'm Alaa, a passionate student diving deep into the realms of cybersecurity and network infrastructure. My journey is fueled by a love for building secure, efficient systems and a curiosity for all things tech.
+I'm Alaa, a passionate Networks and Telecommunications MEng Student, diving deep into the realms of cybersecurity and network infrastructure. My journey is fueled by a love for building secure, efficient systems and a curiosity for all things tech.
 
-### 🚀 What I'm Into
+### What I'm Into
 
 - 🔒 Cybersecurity
 - 🌐 Network Security
@@ -15,24 +14,25 @@ I'm Alaa, a passionate student diving deep into the realms of cybersecurity and 
 - 🤖 Automation
 - 💻 Virtualization
 
-### 🔍 Currently Seeking
+### Currently Seeking
 
 > **Actively looking for a Network Security Internship starting February 2025**
 
 I'm eager to apply my knowledge in a real-world setting and contribute to meaningful projects in cybersecurity.
 
-### 🛠️ Tech I'm Exploring
+### Work Experience (Internships)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-
-### 📚 Learning Journey
+- Network Security Engineer Intern @Spark-it | Summer 2024 (2 months)
+- Cybersecurity Tech Lead @Google Developer Student Clubs (GDSC ENET'Com) | 2023-2024
+- Space Communication Department Lead and Finance Manager @Tunisian Space Association (TUNSA ENET'Com) | 2023-2024
+- Research & Development Intern @TechInventors TN | Summer 2023 (1 month)
+- Automotive Industry Intern @Primatec Engineering | 2022 (5 months)
+- Machine Learning Intern @Djagora Fablab | Summer 2021 (1 month)
+  
+### Learning Journey
 
 - Building and securing home lab environments
-- Automating network configurations
+- Automating network configurations and deployments
 - Exploring virtualization technologies
 - Continuously improving my cybersecurity skills
 
@@ -42,7 +42,9 @@ I'm always excited to connect with fellow tech enthusiasts, students, and profes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alaaeddineayedi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaa.ayedi.personal@google.com)
-
+<a href="https://medium.com/@alaayedi090" target="_blank">
+<img src=https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge alt=medium style="margin-bottom: 5px;" />
+</a>
 ---
 
 <div align="center">
