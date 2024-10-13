@@ -46,7 +46,5 @@ I'm always excited to connect with fellow tech enthusiasts, students, and profes
 ---
 
 <div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen&style=flat-square&label=Profile+Visitors)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
