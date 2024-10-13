@@ -42,9 +42,7 @@ I'm always excited to connect with fellow tech enthusiasts, students, and profes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alaaeddineayedi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaa.ayedi.personal@google.com)
-<a href="https://medium.com/@alaayedi090" target="_blank">
-<img src=https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge alt=medium style="margin-bottom: 5px;" />
-</a>
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alaayedi090)
 ---
 
 <div align="center">
