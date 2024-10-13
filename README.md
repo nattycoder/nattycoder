@@ -1,7 +1,7 @@
 # Alaa Eddine Ayedi
 
 ## 🎓 Networks and Telecommunications Student | 🛡️ Cybersecurity Enthusiast | 🏠 Homelab Explorer
-[!](Cybersecurity_Enthusiast.png)
+[](Cybersecurity_Enthusiast.png)
 
 ### 👋 Hello, Cyber World!
 
